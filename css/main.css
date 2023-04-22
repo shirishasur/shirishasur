@@ -1,3 +1,20 @@
+/** 
+ * ===================================================================
+ * 01. webfonts and iconfonts - (_document-setup.scss)
+ *
+ * ------------------------------------------------------------------- 
+ */
+@import url("fonts.css");
+@import url("font-awesome/css/font-awesome.min.css");
+@import url("micons/micons.css");
+
+/** 
+	* ===================================================================
+	* 02. base style overrides - (_document-setup.scss)
+	*
+	* ------------------------------------------------------------------- 
+	*/
+
 html {
   font-size: 10px;
 }
